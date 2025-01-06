@@ -1,4 +1,4 @@
-# AWS_ScriptingTasks
+# Basic Linux: AWS_ScriptingTasks
 
 ## Task 1:  
 - Create a new file called task1.sh.
